@@ -1,0 +1,53 @@
+
+.menu-list{
+	list-style-type:none;  
+	display:inline-block;;
+	float:right;
+}
+.menu-list li {
+		display:inline-block;
+}
+
+.menu-list li a{
+		text-decoration: none;
+		color: black;
+		font-size: 24px;
+}
+
+.container{
+	margin:0 100px;
+}
+
+body{
+	display:inline-block;
+	margin-top: 0;
+}
+
+figure{
+	margin: 0;
+}
+
+.navigation{
+	    top: 23px;
+    right: 201px;
+    position: absolute;
+    word-spacing: 15px;
+}
+
+.datos{float:left;}
+/*.forma{float:right;}*/
+.contacto{display:block;text-align:center;}
+
+input[type="text"]{display:block;margin-bottom: 15px;margin:auto;}
+textarea{display: block;margin:5px auto;}
+input[type="submit"]{display:block;margin:auto;}
+
+#body{margin-bottom: 30px;}
+
+.contacto h1{
+	margin-bottom:25px;
+}
+
+.contacto{
+	margin-top: 75px;
+}
