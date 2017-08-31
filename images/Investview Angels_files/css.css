@@ -1,0 +1,135 @@
+
+.menu-list{
+	list-style-type:none;  
+	display:inline-block;;
+	float:right;
+	
+}
+.menu-list li {
+		display:inline-block;
+}
+
+.menu-list li a{
+		text-decoration: none;
+		color: black;
+		font-size: 24px;
+		display:inline-block;
+		
+}
+
+.container{
+	margin:0 100px;
+}
+
+body{
+	margin-top: 0;
+}
+
+figure{
+	margin: 0;
+}
+
+.navigation{
+	    top: 23px;
+    right: 201px;
+    position: absolute;
+    word-spacing: 15px;
+
+}
+
+.datos{float:left;margin-left: 10px;}
+.forma{	margin-right:50px;}
+.contacto{display:block;text-align:center;}
+
+input[type="text"]{margin-bottom: 15px;margin:auto;background-color:#d9eff7;border-radius:3px}
+input[type="email"]{margin-bottom: 15px;margin:auto;background-color:#d9eff7;border-radius:3px}
+input[type="text"]#nombre{display:inline;margin-bottom: 15px;margin:auto; }
+input[type="text"]#correo{margin-bottom: 15px;margin:auto;}
+textarea{display: block;margin:5px auto;}
+input[type="submit"]{display:block;margin:auto;}
+#body{margin-bottom: 30px;}
+
+.contacto h1{
+	margin-bottom:15px;	
+	
+}
+
+.contacto h1 a {
+		text-decoration: none;
+		color:black;
+}
+
+.contacto{
+	margin-top: 35px;
+	text-align: center;
+
+}
+
+.about{
+	text-align:center;
+}
+
+.team{
+	border:1px solid black;
+	border-radius: 360px;
+	cursor: pointer;
+	margin-right:20px;
+	height:149px;
+	width:149px;
+
+}
+
+.portfolio{
+	text-align: center;
+	margin-bottom: 10px;}
+#logo{float:left;   top: 23px; left:252px; position: absolute;}
+
+#slogan{position: absolute;	
+    top: 243px;
+    left: 408px;
+    font-size: 60px;
+	}
+
+#background {
+	margin-left: -8px;
+	margin-right: 0px;
+	width:101.3%;
+
+
+	/*height: 100%;*/
+}
+
+form label{
+	display: inline;	
+}
+#textos{
+text-align: center;
+}
+textarea{
+	background-color:#d9eff7; 
+	border-radius:10px;
+}
+
+textarea:focus{
+	background-color:white; 
+}
+
+input:focus{
+	background-color:white; 
+}
+
+section a{text-decoration: none;color:black;}
+
+.profile h1{
+	font-size: 30px;
+}
+
+.profile li{
+	font-size: 20px;
+}
+
+.profile{margin-top:62px; margin-bottom: 62px;}
+
+
+.other{background-color:#d9eff7;margin-left: -6px;margin-right: -8px;}
+
